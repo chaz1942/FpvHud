@@ -1,5 +1,6 @@
 # FpvHud
-# you also could download form wandoujia platform, this is [download link]:http://www.wandoujia.com/apps/com.scofieldchang.fpvhud 
+# you also could download form wandoujia platform, this is [download link]:http://www.wandoujia.com/apps/com.scofieldchang.fpvhud
+#First of all, I am very appreciate for my girlfriend Yi Li(李奕), thank you support me in my back and I love you.
 ## This is an app for DJI UAVs, I used phantom4 test my app
 > what is this app done?
 > This app get some import infomation(such as speed, altitude, heading, roll, pitch and jaw) to display at screen. It is very easy to read.
